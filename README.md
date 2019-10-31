@@ -1,2 +1,2 @@
-# Financial-Computation-and-Financial-Engineering
+# Financial Computation and Financial Engineering
 NTU course, Professor: Jr-Yan Wang 
